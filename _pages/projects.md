@@ -77,7 +77,7 @@ For our senior design project, Emir Salih Magden and I worked with Professor Tom
 
 [Write-up](docs/inverseproject.pdf)
 
-Inverting the heat equation is a problem of great interest in the sciences and engineering, particularly for modeling and monitoring applications. For my final project for my class in inverse problems at Tufts, I looked at the heat equation defined on some domain containing a point heat source at a known location. Assuming the magnitude of the heat source to be an unknown function of time and given noisy transient measurements at other points in the domain, I looked the use of the conjugate gradient method to solve the adjoint problem and recover the heat source magnitude function.
+Inverting the heat equation is a problem of great interest in the sciences and engineering, particularly for modeling and monitoring applications. For my final project for my class in inverse problems at Tufts, I looked at the heat equation defined on some domain containing a point heat source at a known location. Assuming the magnitude of the heat source to be an unknown function of time and given noisy transient measurements at other points in the domain, I looked into the use of the conjugate gradient method to solve the adjoint problem and recover the heat source magnitude function.
 
 - - -
 
