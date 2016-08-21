@@ -3,7 +3,7 @@ title: "Projects"
 layout: single
 excerpt: "List of projects."
 sitemap: true
-permalink: /projects.html
+permalink: /projects/
 ---
 
 This is a collection of course projects and the like relatively tangential to my primary research.  Enjoy.
