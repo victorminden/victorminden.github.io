@@ -13,7 +13,7 @@ More broadly, my research interests include:
 - numerical linear algebra
 - numerical optimization
 - signal processing
-- network theory
+- spectral graph theory
 - high-performance computing
 
 Previously, I did my undergraduate work in mathematics and electrical engineering at [Tufts University](http://www.tufts.edu/), where my advisors were [Scott MacLachlan](http://www.math.mun.ca/~smaclachlan/) and [Douglas Preis](http://engineering.tufts.edu/ece/people/preis.htm).
