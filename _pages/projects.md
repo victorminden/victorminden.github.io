@@ -15,7 +15,7 @@ This is a collection of course projects and the like relatively tangential to my
 
 ![CME 335 Project](images/mf.png)
 
- [Write-up](docs/project_cme335.pdf)
+ [Write-up](docs/project_cme335.pdf), [Code](https://github.com/victorminden/updating-multifrontal)
 
 In Winter 2015 as a final project for my advanced topics in numerical linear algebra course with [Jack Poulson](http://web.stanford.edu/~poulson/), I implemented a general multifrontal solver with nested-dissection ordering in C\+\+ for sparse linear systems.
 
