@@ -6,9 +6,9 @@ author_profile: true
 
 {% include base_path %}
 
-I am a fifth-year PhD student at the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu/)) at Stanford University, where I work with [Lexing Ying](http://math.stanford.edu/~lexing/).  My research concerns fast algorithms for scientific computing, in particular fast linear algebra on rank-structured matrices.
+I am a fifth-year PhD student at the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu/)) at Stanford University, where I work with [Lexing Ying](http://math.stanford.edu/~lexing/).  My research is focused on fast algorithms for scientific computing, in particular fast linear algebra based on data-sparse representations of rank-structured matrices that arise from physical problems in 2D or 3D.
 
-More broadly, my research interests include:
+More broadly, my interests include:
 
 - numerical linear algebra
 - numerical optimization
