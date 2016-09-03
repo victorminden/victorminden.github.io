@@ -81,10 +81,10 @@ Inverting the heat equation is a problem of great interest in the sciences and e
 
 UPDATE: due to popular demand, here is the piece of Matlab code not included in the write-up.
 
-function [ I ] = MNtoI(m,n,M,N)
-%Converts row, column to linear indexing
-I=(n-1)*M+m;
-end
+function [ I ] = MNtoI(m,n,M,N)  
+%Converts row, column to linear indexing  
+I=(n-1)*M+m;  
+end  
 
 - - -
 
