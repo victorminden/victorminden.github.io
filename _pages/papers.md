@@ -10,6 +10,7 @@ permalink: /papers.html
 ## Papers
 
 ### Journals
+- V. Minden, K. L. Ho, A. Damle, and L. Ying.  "A recursive skeletonization factorization based on strong admissibility", submitted. ([Preprint](docs/rss.pdf))
 - V. Minden, A. Damle, K. L. Ho, and L. Ying.  "Fast Spatial Gaussian Process Maximum Likelihood Estimation via Skeletonization Factorizations", submitted. ([Preprint](docs/covariance.pdf))
 - B. Lo, V. Minden, and P. Colella. "A Real-Space Green's Function Method for the Numerical Solution of Maxwell's Equations", Communications in Applied Mathematics and Computational Science 11-2 (2016), pp. 143-170.
 - V. Minden, A. Damle, K. L. Ho, and L. Ying. "A technique for updating hierarchical skeletonization-based factorizations of integral operators", Multiscale Model. Simul. 14-1 (2016), pp. 42-64. ([Paper](docs/updating.pdf), [Journal version](http://dx.doi.org/10.1137/15M1024500))
