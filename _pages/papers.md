@@ -26,6 +26,7 @@ permalink: /papers.html
 - V. Minden. "Improved Iterative Methods for NAPL Transport Through Porous Media," B.S. thesis at Tufts University. ([Paper](docs/mindenthesis.pdf), [Slides](docs/thesisslides.pdf))
 
 ## List of talks
+- Stanford Linear Algebra and Optimization Seminar, Stanford, CA, 2016
 - DOE CSGF Annual Program Review, Arlington, VA, 2016
 - SIAM Annual Meeting, Boston, MA, 2016
 - SIAM Conference on Uncertainty Quantification, Lausanne, CHE, 2016
