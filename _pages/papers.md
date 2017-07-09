@@ -23,6 +23,7 @@ permalink: /papers.html
 - V. Minden, B. Smith, and M. G. Knepley. “Preliminary Implementation of PETSc Using GPUs”, in the Proceedings of the 2010 International Workshop of GPU Solutions to Multiscale Problems in Science and Engineering, Springer, 2011. ([Paper](docs/gpus.pdf))
 
 ### Theses
+- V. Minden. "Data-sparse Algorithms for Structured Matrices," Ph.D. thesis at Stanford University. ([Paper](docs/minden_thesis_2017.pdf))
 - V. Minden. "Improved Iterative Methods for NAPL Transport Through Porous Media," B.S. thesis at Tufts University. ([Paper](docs/mindenthesis.pdf), [Slides](docs/thesisslides.pdf))
 
 ## List of talks

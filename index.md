@@ -6,7 +6,9 @@ author_profile: true
 
 {% include base_path %}
 
-I am a fifth-year PhD student at the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu/)) at Stanford University, where I work with [Lexing Ying](http://math.stanford.edu/~lexing/).  My research is focused on fast algorithms for scientific computing, in particular fast linear algebra based on data-sparse representations of rank-structured matrices that arise from physical problems in 2D or 3D.
+I am a recent graduate of the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu/)) at Stanford University, where I worked with [Lexing Ying](http://math.stanford.edu/~lexing/).  My thesis research was focused on fast algorithms for scientific computing, in particular fast linear algebra based on data-sparse representations of rank-structured matrices that arise from physical problems in 2D or 3D.
+
+In fall 2017, I will be joining the [Flatiron Institute](https://www.simonsfoundation.org/flatiron-institute/) as a research fellow in computational neuroscience.
 
 More broadly, my interests include:
 
