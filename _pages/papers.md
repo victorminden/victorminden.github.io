@@ -11,9 +11,10 @@ permalink: /papers.html
 
 ### Preprints
 - A. Damle, V. Minden, and L. Ying.  "Robust and efficient multi-way spectral clustering", submitted. ([Preprint](https://arxiv.org/abs/1609.08251))
-- V. Minden, A. Damle, K. L. Ho, and L. Ying.  "Fast Spatial Gaussian Process Maximum Likelihood Estimation via Skeletonization Factorizations", submitted. ([Preprint](https://arxiv.org/abs/1603.08057))
 
 ### Journals
+- V. Minden, A. Damle, K. L. Ho, and L. Ying.  "Fast Spatial Gaussian Process Maximum Likelihood Estimation via Skeletonization Factorizations", to appear in Multiscale Modeling and Simulation. ([Preprint](https://arxiv.org/abs/1603.08057))
+
 - V. Minden, K. L. Ho, A. Damle, and L. Ying.  "A recursive skeletonization factorization based on strong admissibility", Multiscale Model. Simul., 15-2 (2017), pp. 768–796. ([Paper](docs/rss.pdf), [Journal version](http://dx.doi.org/10.1137/16M1095949))
 - B. Lo, V. Minden, and P. Colella. "A Real-Space Green's Function Method for the Numerical Solution of Maxwell's Equations", Communications in Applied Mathematics and Computational Science 11-2 (2016), pp. 143-170.
 - V. Minden, A. Damle, K. L. Ho, and L. Ying. "A technique for updating hierarchical skeletonization-based factorizations of integral operators", Multiscale Model. Simul. 14-1 (2016), pp. 42-64. ([Paper](docs/updating.pdf), [Journal version](http://dx.doi.org/10.1137/15M1024500))
