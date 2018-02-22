@@ -33,6 +33,7 @@ permalink: /papers.html
 - SIAM Annual Meeting, Boston, MA, 2016
 - SIAM Conference on Uncertainty Quantification, Lausanne, CHE, 2016
 - Bay Area Scientific Computing Day, Berkeley, CA, 2015
+- SIAM Conference on Applied Linear Algebra, Atlanta, GA, 2015
 - DOE CSGF Annual Program Review, Arlington, VA, 2015
 - Gene Golub SIAM Summer School, Delphi, GRC, 2015
 - ICME Student Seminar, Stanford, CA, 2014
