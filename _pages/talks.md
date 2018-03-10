@@ -9,7 +9,7 @@ permalink: /talks.html
 
 ## Talks
 - SIAM Annual Meeting, Pittsburgh, PA, 2017. "Fast spatial Gaussian process maximum likelihood estimation". ([Slides](docs/minden_siam_2017.pdf))
-- Stanford Linear Algebra and Optimization Seminar, Stanford, CA, 2016. "Fast algorithms exploiting low-rank structure for graph clustering and integral equations". ([Slides](docs/minden_mix.pdf))
+- Stanford Linear Algebra and Optimization Seminar, Stanford, CA, 2016. "Fast algorithms exploiting low-rank structure for graph clustering and integral equations".
 - DOE CSGF Annual Program Review, Arlington, VA, 2016. "Fast spatial Gaussian process maximum likelihood estimation via skeletonization factorizations".
 - SIAM Annual Meeting, Boston, MA, 2016. "Efficient preconditioners and hierarchical interpolative decompositions".
 - SIAM Conference on Uncertainty Quantification, Lausanne, CHE, 2016. "Fast spatial Gaussian process maximum likelihood estimation via skeletonization factorizations".
