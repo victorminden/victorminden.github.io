@@ -10,13 +10,13 @@ permalink: /papers.html
 ## Publications
 
 ### Preprints
-- V. Minden and L. Ying.  "A simple solver for the fractional Laplacian in multiple dimensions", submitted. 
+- V. Minden and L. Ying.  "A simple solver for the fractional Laplacian in multiple dimensions", submitted. ([Preprint] (https://arxiv.org/abs/1802.03770))
 - A. Damle, V. Minden, and L. Ying.  "Robust and efficient multi-way spectral clustering", submitted. ([Preprint](https://arxiv.org/abs/1609.08251))
 
 ### Journal publications
-- V. Minden, A. Damle, K. L. Ho, and L. Ying.  "Fast Spatial Gaussian Process Maximum Likelihood Estimation via Skeletonization Factorizations", Multiscale Model. Simul., 15-4 (2017), pp. 1584–1611. ([Journal version](http://epubs.siam.org/doi/abs/10.1137/17M1116477))
+- V. Minden, A. Damle, K. L. Ho, and L. Ying.  "Fast Spatial Gaussian Process Maximum Likelihood Estimation via Skeletonization Factorizations", Multiscale Model. Simul., 15-4 (2017), pp. 1584–1611. ([Journal version](https://doi.org/10.1137/17M1116477))
 - V. Minden, K. L. Ho, A. Damle, and L. Ying.  "A recursive skeletonization factorization based on strong admissibility", Multiscale Model. Simul., 15-2 (2017), pp. 768–796. ([Paper](docs/rss.pdf), [Journal version](http://dx.doi.org/10.1137/16M1095949))
-- B. Lo, V. Minden, and P. Colella. "A Real-Space Green's Function Method for the Numerical Solution of Maxwell's Equations", Communications in Applied Mathematics and Computational Science 11-2 (2016), pp. 143-170.
+- B. Lo, V. Minden, and P. Colella. "A Real-Space Green's Function Method for the Numerical Solution of Maxwell's Equations", Communications in Applied Mathematics and Computational Science 11-2 (2016), pp. 143-170. ([Journal version](https://doi.org/10.2140/camcos.2016.11.143))
 - V. Minden, A. Damle, K. L. Ho, and L. Ying. "A technique for updating hierarchical skeletonization-based factorizations of integral operators", Multiscale Model. Simul. 14-1 (2016), pp. 42-64. ([Paper](docs/updating.pdf), [Journal version](http://dx.doi.org/10.1137/15M1024500))
 
 ### Conference Proceedings
