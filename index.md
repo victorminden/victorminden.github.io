@@ -8,14 +8,16 @@ author_profile: true
 
 As of fall 2017, I am at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron-institute/) as a research fellow in computational neuroscience.
 
-I am a recent graduate of the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu/)) at Stanford University, where I worked with [Lexing Ying](http://math.stanford.edu/~lexing/).  My thesis research was focused on fast algorithms for scientific computing, in particular fast linear algebra based on data-sparse representations of rank-structured matrices that arise from physical problems in 2D or 3D.
+Before that I studied at the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu/)) at Stanford University, where I worked with [Lexing Ying](http://math.stanford.edu/~lexing/).  My thesis research was focused on fast algorithms for scientific computing, in particular fast linear algebra based on data-sparse representations of rank-structured matrices that arise from physical problems in 2D or 3D.
 
 More broadly, my interests include:
 
 - numerical linear algebra
 - numerical optimization
+- machine learning
 - signal processing
 - spectral graph theory
+- data analysis
 - high-performance computing
 
 Previously, I did my undergraduate work in mathematics and electrical engineering at [Tufts University](http://www.tufts.edu/), where my advisors were [Scott MacLachlan](http://www.math.mun.ca/~smaclachlan/) and [Douglas Preis](http://engineering.tufts.edu/ece/people/preis.htm).
