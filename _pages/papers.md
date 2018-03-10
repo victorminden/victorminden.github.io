@@ -10,7 +10,7 @@ permalink: /papers.html
 ## Publications
 
 ### Preprints
-- V. Minden and L. Ying.  "A simple solver for the fractional Laplacian in multiple dimensions", submitted. ([arXiv] (https://arxiv.org/abs/1802.03770))
+- V. Minden and L. Ying.  "A simple solver for the fractional Laplacian in multiple dimensions", submitted. ([arXiv](https://arxiv.org/abs/1802.03770))
 - A. Damle, V. Minden, and L. Ying.  "Robust and efficient multi-way spectral clustering", submitted. ([arXiv](https://arxiv.org/abs/1609.08251))
 
 ### Journal publications
