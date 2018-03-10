@@ -1,5 +1,5 @@
 ---
-title: "Papers and Talks"
+title: "Publications"
 layout: single
 excerpt: "List of academic publications."
 sitemap: true
@@ -7,7 +7,7 @@ permalink: /papers.html
 ---
 
 
-## Papers
+## Publications
 
 ### Preprints
 - V. Minden and L. Ying.  "A simple solver for the fractional Laplacian in multiple dimensions", submitted. 
