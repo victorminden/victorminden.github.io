@@ -1,7 +1,7 @@
 ---
 title: "Papers and Talks"
 layout: single
-excerpt: "List of academic papers and talks."
+excerpt: "List of academic publications."
 sitemap: true
 permalink: /papers.html
 ---
@@ -13,7 +13,7 @@ permalink: /papers.html
 - V. Minden and L. Ying.  "A simple solver for the fractional Laplacian in multiple dimensions", submitted. 
 - A. Damle, V. Minden, and L. Ying.  "Robust and efficient multi-way spectral clustering", submitted. ([Preprint](https://arxiv.org/abs/1609.08251))
 
-### Journals
+### Journal publications
 - V. Minden, A. Damle, K. L. Ho, and L. Ying.  "Fast Spatial Gaussian Process Maximum Likelihood Estimation via Skeletonization Factorizations", Multiscale Model. Simul., 15-4 (2017), pp. 1584–1611. ([Journal version](http://epubs.siam.org/doi/abs/10.1137/17M1116477))
 - V. Minden, K. L. Ho, A. Damle, and L. Ying.  "A recursive skeletonization factorization based on strong admissibility", Multiscale Model. Simul., 15-2 (2017), pp. 768–796. ([Paper](docs/rss.pdf), [Journal version](http://dx.doi.org/10.1137/16M1095949))
 - B. Lo, V. Minden, and P. Colella. "A Real-Space Green's Function Method for the Numerical Solution of Maxwell's Equations", Communications in Applied Mathematics and Computational Science 11-2 (2016), pp. 143-170.
@@ -26,21 +26,3 @@ permalink: /papers.html
 ### Theses
 - V. Minden. "Data-sparse Algorithms for Structured Matrices," Ph.D. thesis at Stanford University. ([Paper](docs/minden_thesis_2017.pdf))
 - V. Minden. "Improved Iterative Methods for NAPL Transport Through Porous Media," B.S. thesis at Tufts University. ([Paper](docs/mindenthesis.pdf), [Slides](docs/thesisslides.pdf))
-
-## List of talks
-- Stanford Linear Algebra and Optimization Seminar, Stanford, CA, 2016
-- DOE CSGF Annual Program Review, Arlington, VA, 2016
-- SIAM Annual Meeting, Boston, MA, 2016
-- SIAM Conference on Uncertainty Quantification, Lausanne, CHE, 2016
-- Bay Area Scientific Computing Day, Berkeley, CA, 2015
-- SIAM Conference on Applied Linear Algebra, Atlanta, GA, 2015
-- DOE CSGF Annual Program Review, Arlington, VA, 2015
-- Gene Golub SIAM Summer School, Delphi, GRC, 2015
-- ICME Student Seminar, Stanford, CA, 2014
-- DOE CSGF Annual Program Review, Arlington, VA, 2014
-- SIAM Annual Meeting, Chicago, IL, 2014
-- DOE CSGF Annual Program Review, Arlington, VA, 2013
-- Allerton CCC, Monticello, IL, 2012
-- LLNL Student Poster Session, Livermore, CA, 2012
-- IDA/CCS Student Presentation, Bowie, MD, 2011
-- Tufts SIAM Student Seminar, Medford, MA, 2010

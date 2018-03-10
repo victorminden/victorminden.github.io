@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Papers and Talks"
+  - title: "Publications"
     url: https://victorminden.github.io/papers.html
+  
+  - title: "Talks and Posters"
+    url: https://victorminden.github.io/talks.html
 
   - title: "Projects"
     url: https://victorminden.github.io/projects.html
