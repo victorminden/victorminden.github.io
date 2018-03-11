@@ -19,7 +19,7 @@ permalink: /papers.html
 - B. Lo, V. Minden, and P. Colella. "A Real-Space Green's Function Method for the Numerical Solution of Maxwell's Equations", Communications in Applied Mathematics and Computational Science 11-2 (2016), pp. 143-170. ([Journal version](https://doi.org/10.2140/camcos.2016.11.143))
 - V. Minden, A. Damle, K. L. Ho, and L. Ying. "A technique for updating hierarchical skeletonization-based factorizations of integral operators", Multiscale Model. Simul. 14-1 (2016), pp. 42-64. ([arXiv](https://arxiv.org/abs/1411.5706), [Journal version](http://dx.doi.org/10.1137/15M1024500))
 
-### Conference Proceedings
+### Conference proceedings
 - V. Minden, C. Youn, and U. A. Khan, “A distributed self-clustering algorithm for autonomous multi-agent systems”, in the Proceedings of the 50th Annual Allerton Conference on Communication, Control and Computing, Monticello, IL, Oct. 2012. ([Paper](docs/selfclustering.pdf))
 - V. Minden, B. Smith, and M. G. Knepley. “Preliminary Implementation of PETSc Using GPUs”, in the Proceedings of the 2010 International Workshop of GPU Solutions to Multiscale Problems in Science and Engineering, Springer, 2011. ([Paper](docs/gpus.pdf))
 
