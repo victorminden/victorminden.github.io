@@ -25,7 +25,7 @@ Previously, I did my undergraduate work in mathematics and electrical engineerin
 My funding is generously provided by the Department of Energy through the Computational Science Graduate Fellowship program ([CSGF](http://www.krellinst.org/csgf/)).  Through them, I have had the opportunity to work at a number of DOE research laboratories:
 
 - Argonne National Laboratory (summer 2010 with the [PETSc](http://www.mcs.anl.gov/petsc/) team)
-- Lawrence Livermore National Laboratory (summer 2012 with the [computational mathematics](http://computation.llnl.gov/casc/computational-mathematics-group.php) group through the [Cyber Defenders](https://cyberdefender.llnl.gov/) program)
+- Lawrence Livermore National Laboratory (summer 2012 with the computational mathematics group through the Cyber Defenders program)
 - Lawrence Berkeley National Laboratory (summer 2014 with [ANAG](http://crd.lbl.gov/departments/applied-mathematics/ANAG/))
 
 
