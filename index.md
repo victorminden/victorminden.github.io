@@ -22,7 +22,7 @@ More broadly, my interests include:
 
 Previously, I did my undergraduate work in mathematics and electrical engineering at [Tufts University](http://www.tufts.edu/), where my advisors were [Scott MacLachlan](http://www.math.mun.ca/~smaclachlan/) and [Douglas Preis](http://engineering.tufts.edu/ece/people/preis.htm).
 
-My funding is generously provided by the Department of Energy through the Computational Science Graduate Fellowship program ([CSGF](http://www.krellinst.org/csgf/)).  Through them, I have had the opportunity to work at a number of DOE research laboratories:
+My graduate funding was generously provided by the Department of Energy through the Computational Science Graduate Fellowship program ([CSGF](http://www.krellinst.org/csgf/)).  Through them, I have had the opportunity to work at a number of DOE research laboratories:
 
 - Argonne National Laboratory (summer 2010 with the [PETSc](http://www.mcs.anl.gov/petsc/) team)
 - Lawrence Livermore National Laboratory (summer 2012 with the computational mathematics group through the Cyber Defenders program)
