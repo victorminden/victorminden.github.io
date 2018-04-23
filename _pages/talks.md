@@ -18,6 +18,7 @@ permalink: /talks.html
 
 
 ## Seminar Talks
+- Cornell Scientific Computing and Numerics Seminar, Ithaca, NY, 2018.  "A recursive skeletonization factorization based on strong admissibility".
 - Stanford Linear Algebra and Optimization Seminar, Stanford, CA, 2016. "Fast algorithms exploiting low-rank structure for graph clustering and integral equations".
 - ICME Student Seminar, Stanford, CA, 2014. "A numerical method for solving Maxwell’s equations in free-space using an approximate 
 IVP Green’s function". ([Slides](docs/vm_maxwell.pdf))
