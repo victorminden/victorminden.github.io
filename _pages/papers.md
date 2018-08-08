@@ -10,6 +10,7 @@ permalink: /papers.html
 ## Publications
 
 ### Preprints
+- A. Giovannucci, V. Minden, C. Pehlevan, and D. B. Chklovskii. "Efficient Principal Subspace Projection of Streaming Data Through Fast Similarity Matching". submitted. ([arXiv](http://arxiv.org/abs/1808.02083))
 - V. Minden and L. Ying.  "A simple solver for the fractional Laplacian in multiple dimensions", submitted. ([arXiv](https://arxiv.org/abs/1802.03770))
 
 ### Journal publications
