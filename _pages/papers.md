@@ -10,8 +10,10 @@ permalink: /papers.html
 ## Publications
 
 ### Preprints
-- A. Giovannucci, V. Minden, C. Pehlevan, and D. B. Chklovskii. "Efficient Principal Subspace Projection of Streaming Data Through Fast Similarity Matching", submitted. ([arXiv](http://arxiv.org/abs/1808.02083))
-- V. Minden and L. Ying.  "A simple solver for the fractional Laplacian in multiple dimensions", submitted. ([arXiv](https://arxiv.org/abs/1802.03770))
+- V. Minden, C. Pehlevan, and D. B. Chklovskii.  "Biologically Plausible Online Principal Component Analysis Without Recurrent Neural Dynamics".  To appear, proceedings of the 52nd Asilomar Conference on Signals and Systems.
+- A. Khalilian-Gourtani, M. Tepper, V. Minden, and D. B. Chklovskii.  "Strip the stripes: artifact detection and removal for scanning electron microscopy imaging".  Submitted.
+- A. Giovannucci, V. Minden, C. Pehlevan, and D. B. Chklovskii. "Efficient Principal Subspace Projection of Streaming Data Through Fast Similarity Matching". To appear, proceedings the 2018 IEEE International Conference on Big Data. ([arXiv](http://arxiv.org/abs/1808.02083))
+- V. Minden and L. Ying.  "A simple solver for the fractional Laplacian in multiple dimensions".  Submitted. ([arXiv](https://arxiv.org/abs/1802.03770))
 
 ### Journal publications
 - A. Damle, V. Minden, and L. Ying.  "Simple, direct, and efficient multi-way spectral clustering", to appear in Information and Inference. ([arXiv](https://arxiv.org/abs/1609.08251))
