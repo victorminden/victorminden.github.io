@@ -42,4 +42,4 @@ IVP Green’s function". ([Slides](docs/vm_maxwell.pdf))
 - ICME Student Xpo, Stanford, CA, 2015. "Updating hierarchical factorizations in response to localized modifications".
 - DOE CSGF Annual Program Review, Arlington, VA, 2014. "Updating techniques for tree-based factorizations".
 - DOE CSGF Annual Program Review, Arlington, VA, 2013. "Spectral methods for seed-set expansion on graphs".
-- LLNL Student Poster Session, Livermore, CA, 2012. "Commute time ad related metrics for seed-set expansion".
+- LLNL Student Poster Session, Livermore, CA, 2012. "Commute time and related metrics for seed-set expansion".
