@@ -8,7 +8,8 @@ permalink: /talks.html
 
 
 ## Conference Talks
-- Copper Mountain Conference on Iterative Methods, CO, 2018.  "A recursive skeletonization factorization based on strong admissibility".
+- 52nd Annual Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, 2018.  "Biologically plausible online Principal Component Analysis without recurrent neural dynamics".
+- Copper Mountain Conference on Iterative Methods, Copper Mountain, CO, 2018.  "A recursive skeletonization factorization based on strong admissibility".
 - SIAM Annual Meeting, Pittsburgh, PA, 2017. "Fast spatial Gaussian process maximum likelihood estimation". ([Slides](docs/minden_siam_2017.pdf))
 - SIAM Annual Meeting, Boston, MA, 2016. "Efficient preconditioners and hierarchical interpolative decompositions".
 - SIAM Conference on Uncertainty Quantification, Lausanne, CHE, 2016. "Fast spatial Gaussian process maximum likelihood estimation via skeletonization factorizations".
