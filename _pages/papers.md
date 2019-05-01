@@ -10,7 +10,6 @@ permalink: /papers.html
 ## Publications
 
 ### Preprints
-- A. Khalilian-Gourtani, M. Tepper, V. Minden, and D. B. Chklovskii.  "Strip the stripes: artifact detection and removal for scanning electron microscopy imaging".  To appear, proceedings of the 44th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2019).
 - V. Minden and L. Ying.  "A simple solver for the fractional Laplacian in multiple dimensions".  In review. ([arXiv](https://arxiv.org/abs/1802.03770))
 
 ### Journal publications
@@ -21,6 +20,7 @@ permalink: /papers.html
 - V. Minden, A. Damle, K. L. Ho, and L. Ying. "A technique for updating hierarchical skeletonization-based factorizations of integral operators", Multiscale Model. Simul. 14-1 (2016), pp. 42-64. ([arXiv](https://arxiv.org/abs/1411.5706), [Journal version](http://dx.doi.org/10.1137/15M1024500))
 
 ### Conference proceedings
+- A. Khalilian-Gourtani, M. Tepper, V. Minden, and D. B. Chklovskii.  "Strip the stripes: artifact detection and removal for scanning electron microscopy imaging".  Proceedings of the 44th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2019). ([Paper](https://ieeexplore.ieee.org/document/8683119)
 - A. Giovannucci, V. Minden, C. Pehlevan, and D. B. Chklovskii. "Efficient Principal Subspace Projection of Streaming Data Through Fast Similarity Matching". Proceedings of the 2018 IEEE International Conference on Big Data. ([arXiv](http://arxiv.org/abs/1808.02083), [Conference version](https://ieeexplore.ieee.org/document/8622026))
 - V. Minden, C. Pehlevan, and D. B. Chklovskii.  "Biologically Plausible Online Principal Component Analysis Without Recurrent Neural Dynamics".  Proceedings of the 52nd Asilomar Conference on Signals and Systems. ([arXiv](https://arxiv.org/abs/1810.06966), [Conference version](https://ieeexplore.ieee.org/document/8645109))
 - V. Minden, C. Youn, and U. A. Khan, “A distributed self-clustering algorithm for autonomous multi-agent systems”, in the Proceedings of the 50th Annual Allerton Conference on Communication, Control and Computing, Monticello, IL, Oct. 2012. ([Paper](docs/selfclustering.pdf))
