@@ -13,7 +13,7 @@ permalink: /papers.html
 - V. Minden and L. Ying.  "A simple solver for the fractional Laplacian in multiple dimensions".  In review. ([arXiv](https://arxiv.org/abs/1802.03770))
 
 ### Journal publications
-- A. Damle, V. Minden, and L. Ying.  "Simple, direct, and efficient multi-way spectral clustering", Information and Inference: a Journal of the IMA. ([arXiv](https://arxiv.org/abs/1609.08251), [Journal version](https://academic.oup.com/imaiai/advance-article-abstract/doi/10.1093/imaiai/iay008/5045955))
+- A. Damle, V. Minden, and L. Ying.  "Simple, direct, and efficient multi-way spectral clustering", Information and Inference: a Journal of the IMA, 8-1 (2019), pp. 181-203. ([arXiv](https://arxiv.org/abs/1609.08251), [Journal version](https://academic.oup.com/imaiai/advance-article-abstract/doi/10.1093/imaiai/iay008/5045955))
 - V. Minden, A. Damle, K. L. Ho, and L. Ying.  "Fast Spatial Gaussian Process Maximum Likelihood Estimation via Skeletonization Factorizations", Multiscale Model. Simul., 15-4 (2017), pp. 1584–1611. ([arXiv](https://arxiv.org/abs/1603.08057), [Journal version](https://doi.org/10.1137/17M1116477))
 - V. Minden, K. L. Ho, A. Damle, and L. Ying.  "A recursive skeletonization factorization based on strong admissibility", Multiscale Model. Simul., 15-2 (2017), pp. 768–796. ([arXiv](https://arxiv.org/abs/1609.08130), [Journal version](http://dx.doi.org/10.1137/16M1095949))
 - B. Lo, V. Minden, and P. Colella. "A Real-Space Green's Function Method for the Numerical Solution of Maxwell's Equations", Communications in Applied Mathematics and Computational Science 11-2 (2016), pp. 143-170. ([Journal version](https://doi.org/10.2140/camcos.2016.11.143))
