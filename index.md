@@ -6,7 +6,9 @@ author_profile: true
 
 {% include base_path %}
 
-As of September 2018, I am a software engineer at Google.  
+As of October 2019, I am a senior algorithms scientist at Path AI, where I work on computational pathology.  
+
+Before that, I was a software engineer at Google where I worked 80% time with the Hotels team on data analytics and 20% time with the operations research team on linear program solvers.
 
 Before that I studied at the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu/)) at Stanford University, where I worked with [Lexing Ying](http://math.stanford.edu/~lexing/).  My thesis research was focused on fast algorithms for scientific computing, in particular fast linear algebra based on data-sparse representations of rank-structured matrices that arise from physical problems in 2D or 3D.  Between my PhD and my current position I was at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron-institute/) as a research fellow in computational neuroscience.
 
