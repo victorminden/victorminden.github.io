@@ -6,7 +6,9 @@ author_profile: true
 
 {% include base_path %}
 
-As of October 2019, I am a senior algorithms scientist at [PathAI](https://www.pathai.com), where I work on computational pathology.  
+As of February 2021 I am a software engineer working on compilers at [Cerebras Systems](https://cerebras.net/).
+
+Before that, I was a senior algorithms scientist at [Path AI](https://www.pathai.com), where I worked on computational digital pathology.  
 
 Before that, I was a software engineer at Google where I worked 80% time with the Hotels team on data analytics and 20% time with the operations research team on linear program solvers.
 
