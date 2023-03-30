@@ -5,8 +5,9 @@ author_profile: true
 ---
 
 {% include base_path %}
+I currently work at X, the moonshot factory (previously Google X) on the [Tapestry](https://x.company/projects/tapestry/) team.
 
-As of February 2021 I am a software engineer working on compilers at [Cerebras Systems](https://cerebras.net/).
+Previously, I was a software engineer working on compilers at [Cerebras Systems](https://cerebras.net/).
 
 Before that, I was a senior algorithms scientist at [Path AI](https://www.pathai.com), where I worked on computational digital pathology.  
 
