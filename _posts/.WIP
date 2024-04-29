@@ -1,0 +1,22 @@
+
+## Remote Procedure Calls from Python
+
+### gRPC
+Not just Python
+{% highlight bash %}
+$ conda install grpcio-tools
+{% endhighlight %}
+
+### PyO3: Python<->Rust interoperability
+[PyO3](https://github.com/PyO3/pyo3)
+(not to be confused with [PyOxidizer](https://github.com/indygreg/PyOxidizer))
+
+### CFFI: the C Foreign Function Interface
+
+## Parting thoughts
+
+- There are way too many different ways to bring other languages (well, mostly C/C++) into Python, and it is not entirely clear wheh to use each.  The guidelines that I have heard are to stick with native extensions if performance is a concern and otherwise to use SWIG or gRPC services as is convenient.  However, it would be great to see a more fuller justification for this and some benchmarks.
+
+- There is another route forward for Python-without-Python that has been generating buzz on the internet, namely Mojo 🔥.  I have not played too much with Mojo 🔥 at this stage, but it might be worth a dedicated post in the future once I understand it better.
+
+- Something about [garfield minus garfield](https://garfieldminusgarfield.net/)
