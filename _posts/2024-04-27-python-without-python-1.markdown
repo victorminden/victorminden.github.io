@@ -16,7 +16,7 @@ Python is the *lingua franca* ("French language") of data science, machine learn
 Most computers today come with a Python interpreter pre-installed or just-a-click-away (I'm looking at you, [Windows](https://devblogs.microsoft.com/python/python-in-the-windows-10-may-2019-update/)), and for those that don't there is a simple, standardized method for [setting up a new Python interpreter from scratch](https://www.python.org/downloads/) (actually, [two](https://docs.conda.io/projects/conda/en/stable/)), and [a number of standard tools](https://xkcd.com/927/) for Python package and environment management ([a](https://docs.conda.io/projects/conda/en/stable/),[b](https://docs.python.org/3/library/venv.html),[c](https://python-poetry.org/)).
 
 Ultimately, though, popularity is not quality and "widely-used" does not mean "suitable for all problems".
-In my career I have seen Python applied in many questionable ways (*e.g.*, [pytest](https://docs.pytest.org/) as a universal build orchestrator), and in many places where its nimble dynamic, fast-and-loose nature quickly became more of a liability than a selling point.
+In my career I have seen Python applied in many questionable ways (*e.g.*, [pytest](https://docs.pytest.org/) as a universal build orchestrator), and in many places where its nimble, dynamic, fast-and-loose nature quickly became more of a liability than a selling point.
 
 In this post, I'm going to play with a few different methods of using Python "on the outside" to talk to some other language "on the inside", enabling spending most of your time writing "not-Python" while still ultimately incorporating your code as part of a Python library or application.  I won't comment on *why* or *when* you might want to do this except to say that there are some good standard reasons (compile-time type safety and code optimization, true multithreaded parallelism, *etc.*) and that you can do some [really fun but probably ill-advised things](https://p403n1x87.github.io/running-c-unit-tests-with-pytest.html).
 
@@ -28,7 +28,7 @@ conda activate py311
 {% endhighlight %}
 
 Further, the example we will use for interop will be relatively contrived:
-we would like a function to concatenate two strings, separated by a single space, and return the result.
+we would like a function to concatenate two strings, separated by a comma and single space, and return the result.
 
 ## pybind11: writing C++ and liking it
 The header-only [pybind11](https://pybind11.readthedocs.io/en/latest/) library is maybe the most popular approach to Python<->C++ interoperability.
@@ -241,7 +241,7 @@ std::string greet(
 }
 {% endhighlight %}
 
-New to SWIG, now, is the interface file, `swig_example.i`, which defines the code to be wrapper.
+New to SWIG, now, is the interface file, `swig_example.i`, which defines the code to be wrapped.
 We do nothing more here than include the header with the declaration of our `greet` function
 and redeclare `greet` as part of the interface.
 
