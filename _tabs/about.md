@@ -34,7 +34,7 @@ In my first industry job ever, I was a software engineer at [Google](https://www
 
 For my PhD, I studied with [Lexing Ying](https://math.stanford.edu/~lexing/) at the Institute for Computational and Mathematical Engineering ([ICME](https://icme.stanford.edu/)) at Stanford University.
 
-My thesis research was focused on fast algorithms for scientific computing, in particular fast linear algebra based on data-sparse representations of rank-structured matrices that arise from physical problems in 2D or 3D.  I have PDFs of my [thesis](../../docs/minden_thesis_2017.pdf) and [thesis defense slides](../../docs/minden_defense.pdf).
+My thesis research was focused on fast algorithms for scientific computing, in particular fast linear algebra based on data-sparse representations of rank-structured matrices that arise from physical problems in 2D or 3D.  I have PDFs of my [thesis](https://github.com/victorminden/victorminden.github.io/blob/master/docs/minden_thesis_2017.pdf) and [thesis defense slides](https://github.com/victorminden/victorminden.github.io/blob/master/docs/minden_defense.pdf).
 
 After my PhD I was at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron-institute/) as a research fellow in computational neuroscience.
 
