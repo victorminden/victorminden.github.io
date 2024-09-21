@@ -2,7 +2,7 @@
 layout: post
 title:  "🚫🐍: Using Python without using Python - Part 2"
 date:   2024-09-20 17:53:16 -0700
-tags: Python C/C++
+tags: Python C Rust gRPC
 categories: Programming
 math: true
 ---
@@ -90,7 +90,7 @@ $ mkdir pyo3_example && cd pyo3_example && maturin init
 
 As part of the `init`, this creates a `src/lib.rs` in the (now) current working directory with an example function.  Actually, conveniently (by design) `init` sets up the rest of the relevant build/packaging files as well, but we won't touch those.  We slightly modify the generated Rust code to the following:
 {% highlight rust %}
-// lib.rs
+// src/lib.rs
 use pyo3::prelude::*;
 
 #[pyfunction]
